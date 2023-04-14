@@ -1,0 +1,117 @@
+{
+    "locations": [{
+        "id": 1,
+        "address": "2245 candy lane, WV",
+        "footage": 845
+        
+},
+{
+    "id": 2,
+    "address": "8675309 North 10th St. ,WV",
+    "footage": 845
+},
+{
+    "id": 3,
+    "address": "2023 West 182nd St. ,WV",
+    "footage": 845
+}
+
+],
+
+"users": [{
+    "id": 1,
+    "name": "Marquise",
+    "email": "email@email.com",
+    "isStaff": false
+    
+},
+
+{
+    "id": 2,
+    "name": "John",
+    "email": "job@email.com",
+    "isStaff": true
+}],
+
+"employees":[
+{   "id": 1,
+    "startDate": "2020-04-20",
+    "payRate": 25,
+    "locationId": 3,
+    "userId": 2
+
+}
+],
+
+"Type": [
+    {
+        "id": 1,
+        "name": "Chocolate"
+    },
+
+    {
+        "id": 2,
+        "name": "Gummy"
+    },
+
+    {
+        "id": 3,
+        "name": "Sour Candy"
+    },
+
+    {
+        "id": 4,
+        "name": "Gum"
+    },
+
+    {
+        "id": 5,
+        "name": "Hard Candy"
+    }
+],
+
+"product": [
+    {
+        "id": 1,
+        "typeID": 1,
+        "name": "Hershey",
+        "price": 1.75
+    },
+
+    {
+        "id": 2,
+        "typeID": 5,
+        "name": "Werthers",
+        "price": 2.38
+    },
+
+    {
+        "id": 3,
+        "typeID": 3,
+        "name": "Sour Patch Kids",
+        "price": 4.17
+    },
+
+    {
+        "id": 4,
+        "typeID": 4,
+        "name": "Bubbalicious",
+        "price": 1.95
+    },
+
+    {
+        "id": 5,
+        "typeID": 2,
+        "name": "Gummy Worms",
+        "price": 2.99
+    }
+]
+
+
+
+}
+
+
+
+
+    
